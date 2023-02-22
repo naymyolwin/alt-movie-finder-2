@@ -1,7 +1,7 @@
 {
   "name": "react-movie-finder-2",
   "version": "0.1.0",
-  "home":"https://naymyolwin.github.io/alt-react-movie-finder-2/",
+  "homepage":"https://naymyolwin.github.io/alt-react-movie-finder-2/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
